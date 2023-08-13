@@ -12,7 +12,7 @@ This repository contains 3 main jupyter notebooks used for dataset analysis and 
 
 ## Data set
 
-The datasets used for training and testing the models were [KDD-1999](https://kdd.org/kdd-cup/view/kdd-cup-1999) and [CSE-CIC-IDS2018](https ://registry.opendata.aws/cse-cic-ids2018).
+The datasets used for training and testing the models were [KDD-1999](https://kdd.org/kdd-cup/view/kdd-cup-1999) and [CSE-CIC-IDS2018](https://registry.opendata.aws/cse-cic-ids2018).
 
 ## Metrics
 
